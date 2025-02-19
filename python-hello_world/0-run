@@ -1,2 +1,2 @@
-push attempt
-
+#!/bin/bash
+python "$PYFILE"
